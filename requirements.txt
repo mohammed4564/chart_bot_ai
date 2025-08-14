@@ -1,0 +1,7 @@
+flask
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+python-dotenv
+faiss-cpu

@@ -1,0 +1,42 @@
+# Python environment folders
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+env/
+venv/
+python_pip/
+ 
+# IDE folders
+.vscode/
+.idea/
+ 
+# System files
+.DS_Store
+Thumbs.db
+ 
+# Log files
+*.log
+ 
+# Ignore PDFs and other binaries (optional)
+# *.pdf
+ 
+# Ignore compiled output
+*.so
+*.dll
+*.pyd
+ 
+# Bytecode
+*.pyc
+ 
+# Jupyter
+.ipynb_checkpoints/
+ 
+# VSCode settings (optional)
+.vscode/
+ 
+# OS cache files
+ehthumbs.db
+Icon?
+ 
