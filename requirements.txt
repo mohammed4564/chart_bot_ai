@@ -5,3 +5,4 @@ langchain-groq
 sentence-transformers
 python-dotenv
 faiss-cpu
+pypdf
